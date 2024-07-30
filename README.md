@@ -6,7 +6,7 @@ Decompile APK/IPA  To  UnityProject
 **UnityReverseEngine**目前正处于开发阶段...
 
 ## 介绍
-UnityReverseEngine是一个反编译引擎。用于还原Unity打包后的**APK/IPA**工程，可将打包后的文件**逆转为Unity工程**，可直接在**Unity编辑器上二次开发**。
+UREngine是一个反编译引擎。用于还原Unity打包后的**APK/IPA**工程，可将打包后的文件**逆转为Unity工程**，可直接在**Unity编辑器上二次开发**。
 目前UREngine已经实现了对汇编指令的逆转，可将Arm64指令完整的并且最贴近源码的形式直接生成.CS文件。**(UREngine的语义解析器会去除引擎的初始化代码和垃圾代码)**
 <br/>
 
