@@ -11,7 +11,7 @@ UnityReverseEngine是一个反编译引擎。用于还原Unity打包后的**APK/
 <br/>
 
 ### 效果图
-**原版**：
+**原代码**：
 <img alt ="u3d.ong" src="https://raw.githubusercontent.com/IIIImmmyyy/UnityReverseEngine/master/source/ori.png" >
 
 
