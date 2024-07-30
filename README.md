@@ -19,7 +19,8 @@ UREngine是一个反编译引擎。用于还原Unity打包后的**APK/IPA**工�
 **原代码**：
 <img alt ="u3d.ong" src="https://raw.githubusercontent.com/IIIImmmyyy/UnityReverseEngine/master/source/ori.png" >
 
-
+**IDA**：
+<img alt ="u3d.ong" src="https://raw.githubusercontent.com/IIIImmmyyy/UnityReverseEngine/master/source/ida.png" >
 **Il2Cpp逆转为C#**：
 <img alt ="u3d.ong" src="https://raw.githubusercontent.com/IIIImmmyyy/UnityReverseEngine/master/source/back.png" >
 
