@@ -10,6 +10,11 @@ UnityReverseEngine是一个反编译引擎。用于还原Unity打包后的**APK/
 目前UREngine已经实现了对汇编指令的逆转，可将Arm64指令完整的并且最贴近源码的形式直接生成.CS文件。**(UREngine的语义解析器会去除引擎的初始化代码和垃圾代码)**
 <br/>
 
+## 平台支持
+
+- Android (Arm64)
+- IOS (Arm64)
+- PC(待定)
 ### 效果图
 **原代码**：
 <img alt ="u3d.ong" src="https://raw.githubusercontent.com/IIIImmmyyy/UnityReverseEngine/master/source/ori.png" >
