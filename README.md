@@ -18,8 +18,8 @@ UREngine是一个反编译引擎。用于还原Unity打包后的**APK/IPA**工�
 
 ## 平台支持
 
-- Android (Arm64)
-- IOS 
+- Android APK (Arm64)
+- IOS IPA
 - PC(待定)
 <br/>
 
