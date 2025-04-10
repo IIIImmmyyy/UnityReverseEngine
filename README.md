@@ -9,7 +9,7 @@ Decompile APK/IPA  To  UnityProject
 <br/>
 <br/>
 
-**UnityReverseEngine**目前正处于开发阶段...
+**UnityReverseEngine**目前正处于开发阶段...（重构中...）
 
 ## 介绍
 UREngine是一个反编译引擎。用于还原Unity打包后的**APK/IPA**工程，可将打包后的文件**逆转为Unity工程**，可直接在**Unity编辑器上二次开发，甚至无需改动即可运行**。
@@ -42,10 +42,13 @@ UREngine是一个反编译引擎。用于还原Unity打包后的**APK/IPA**工�
 ### Cpp2CS指令解析未完成部分：
 
 - ~~VTable解析~~；( :smile: 简单，基本结束)
-- Struct 类型参数解析 (局部引用比泛型还复杂 FK )；
+
 - ~~引用计数去除垃圾代码~~ （Done ）；
 - 泛型解析 (  :cold_sweat:  ...有点复杂,处理中 )；
 - ~~for循环处理~~ （Done）
+- 引入向量寄存器解决Struct声明问题
+- delegate 解析更贴近源码
+- 协成解析
 - 未知.
 ### 资源部分；
 
