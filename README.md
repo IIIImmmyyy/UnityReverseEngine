@@ -37,7 +37,7 @@ UREngine是一个反编译引擎。用于还原Unity打包后的**APK/IPA**工�
 **Il2Cpp逆转为C#**：
 <br/>
 <img alt ="u3d.ong" src="https://raw.githubusercontent.com/IIIImmmyyy/UnityReverseEngine/master/source/backcode.png" >
-你没看错！，以上是机器转译的结果。得益于强悍的语义解析器,和内置的反汇编AI 目前转译C#模块可以完整的解析协程、闭包类。并且基本与源码一致。同时对类进行注释
+你没看错！以上是机器转译的结果。得益于强悍的语义解析器和内置的反汇编AI 目前转译C#模块可以完整的解析协程、闭包类。并且基本与源码一致。同时对类进行注释
 
 ## 等待开发
 ### Cpp2CS指令解析未完成部分：
