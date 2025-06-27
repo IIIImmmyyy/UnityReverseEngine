@@ -1,9 +1,4 @@
----
-title: UnityReverseEngine: Revolutionary Unity Decompilation Engine Technical Overview
-date: 2025-06-27 12:00:00
-tags: [Unity, Reverse Engineering, IL2CPP, ARM64, Decompilation, UREngine]
-categories: [Technical Sharing, Unity Reverse Engineering]
----
+
 
 ## 📖 Introduction
 
