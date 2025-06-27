@@ -502,7 +502,7 @@ public class ModManager : MonoBehaviour
 
 ## 结语
 
-**UnityReverseEngine** 目前还在持续优化中，这是一个充满挑战的技术项目。虽然现阶段已经取得了显著的技术突破，但我们深知还有很大的改进空间。
+**UnityReverseEngine** 目前还在持续优化中，这是一个充满挑战的技术项目。虽然现阶段已经取得了显著的技术突破，但我深知还有很大的改进空间。
 
 ### 🎯 近期发展目标
 
