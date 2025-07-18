@@ -2,8 +2,7 @@
 ## [Android U3D手游安全中级篇] 
 ## [https://github.com/IIIImmmyyy/u3dCourse](https://github.com/IIIImmmyyy/U3DGameCourse)
 
-- [README 中文](./README.md)
-- [README English](./README-en.md)
+
 
 ## 📖 引言
 
