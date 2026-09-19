@@ -4,6 +4,8 @@
 
 ## 🎬 演示视频
 
+完整演示从 APK 还原到 Unity 工程的流程。
+
 https://github.com/user-attachments/assets/b4409379-0794-4224-8802-2f023e41df4a
 
 ### UREngine在经历过一段时间的重构，以及架构优化，现在UREngine的输出将是稳定的可直接编译的C#代码

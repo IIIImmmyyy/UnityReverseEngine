@@ -3,6 +3,8 @@
 
 ## 🎬 Demo Video
 
+This video demonstrates the complete workflow of restoring a Unity project from an APK.
+
 https://github.com/user-attachments/assets/b4409379-0794-4224-8802-2f023e41df4a
 
 
